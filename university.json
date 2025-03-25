@@ -1,0 +1,307 @@
+{
+  "name": "Головний Університет",
+  "head": {
+    "studentId": "S200",
+    "firstName": "Олександр",
+    "lastName": "Коваль",
+    "patronymic": "Ігорович",
+    "sex": "MALE",
+    "type": "Student"
+  },
+  "faculties": [
+    {
+      "name": "Факультет Технологій",
+      "head": {
+        "studentId": "S201",
+        "firstName": "Марко",
+        "lastName": "Іваненко",
+        "patronymic": "Олексійович",
+        "sex": "MALE",
+        "type": "Student"
+      },
+      "departments": [
+        {
+          "name": "Інформаційні Технології",
+          "head": {
+            "studentId": "S203",
+            "firstName": "Ольга",
+            "lastName": "Мельник",
+            "patronymic": "Артемівна",
+            "sex": "FEMALE",
+            "type": "Student"
+          },
+          "groups": [
+            {
+              "name": "ТК-201",
+              "head": {
+                "studentId": "S207",
+                "firstName": "Олексій",
+                "lastName": "Бондар",
+                "patronymic": "Дмитрович",
+                "sex": "MALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S215",
+                  "firstName": "Артем",
+                  "lastName": "Петренко",
+                  "patronymic": "Ігоревич",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S216",
+                  "firstName": "Аліна",
+                  "lastName": "Бондаренко",
+                  "patronymic": "Олександрівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "ТК-202",
+              "head": {
+                "studentId": "S208",
+                "firstName": "Людмила",
+                "lastName": "Кравець",
+                "patronymic": "Петрівна",
+                "sex": "FEMALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S217",
+                  "firstName": "Максим",
+                  "lastName": "Кузьменко",
+                  "patronymic": "Дмитрович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S218",
+                  "firstName": "Марія",
+                  "lastName": "Смирнова",
+                  "patronymic": "Василівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Штучний Інтелект",
+          "head": {
+            "studentId": "S204",
+            "firstName": "Андрій",
+            "lastName": "Шевченко",
+            "patronymic": "Віталійович",
+            "sex": "MALE",
+            "type": "Student"
+          },
+          "groups": [
+            {
+              "name": "ТК-203",
+              "head": {
+                "studentId": "S209",
+                "firstName": "Ігор",
+                "lastName": "Дмитренко",
+                "patronymic": "Романович",
+                "sex": "MALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S219",
+                  "firstName": "Дмитро",
+                  "lastName": "Шевчук",
+                  "patronymic": "Миколайович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S220",
+                  "firstName": "Ірина",
+                  "lastName": "Тимошенко",
+                  "patronymic": "Іванівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "ТК-204",
+              "head": {
+                "studentId": "S210",
+                "firstName": "Наталя",
+                "lastName": "Соловйова",
+                "patronymic": "Євгенівна",
+                "sex": "FEMALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S221",
+                  "firstName": "Арсен",
+                  "lastName": "Бабенко",
+                  "patronymic": "Степанович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S222",
+                  "firstName": "Валерія",
+                  "lastName": "Гриценко",
+                  "patronymic": "Анатоліївна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Факультет Літератури",
+      "head": {
+        "studentId": "S202",
+        "firstName": "Катерина",
+        "lastName": "Сидоренко",
+        "patronymic": "Олександрівна",
+        "sex": "FEMALE",
+        "type": "Student"
+      },
+      "departments": [
+        {
+          "name": "Літературна Критика",
+          "head": {
+            "studentId": "S205",
+            "firstName": "Марія",
+            "lastName": "Зайцева",
+            "patronymic": "Іванівна",
+            "sex": "FEMALE",
+            "type": "Student"
+          },
+          "groups": [
+            {
+              "name": "ЛТ-301",
+              "head": {
+                "studentId": "S211",
+                "firstName": "Денис",
+                "lastName": "Рибак",
+                "patronymic": "Георгійович",
+                "sex": "MALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S223",
+                  "firstName": "Микола",
+                  "lastName": "Чорномаз",
+                  "patronymic": "Олексійович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S224",
+                  "firstName": "Наталія",
+                  "lastName": "Іванова",
+                  "patronymic": "Миколаївна",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "ЛТ-302",
+              "head": {
+                "studentId": "S212",
+                "firstName": "Анастасія",
+                "lastName": "Мартинюк",
+                "patronymic": "Валеріївна",
+                "sex": "FEMALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S225",
+                  "firstName": "Роман",
+                  "lastName": "Зайцев",
+                  "patronymic": "Вікторович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S226",
+                  "firstName": "Олена",
+                  "lastName": "Федорова",
+                  "patronymic": "Ігорівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Світова Література",
+          "head": {
+            "studentId": "S206",
+            "firstName": "Володимир",
+            "lastName": "Гончаренко",
+            "patronymic": "Сергійович",
+            "sex": "MALE",
+            "type": "Student"
+          },
+          "groups": [
+            {
+              "name": "ЛТ-303",
+              "head": {
+                "studentId": "S213",
+                "firstName": "Тимофій",
+                "lastName": "Гаврилюк",
+                "patronymic": "Максимович",
+                "sex": "MALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S227",
+                  "firstName": "Георгій",
+                  "lastName": "Петров",
+                  "patronymic": "Петрович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S228",
+                  "firstName": "Маргарита",
+                  "lastName": "Дмитренко",
+                  "patronymic": "Федорівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            },
+            {
+              "name": "ЛТ-304",
+              "head": {
+                "studentId": "S214",
+                "firstName": "Дарина",
+                "lastName": "Кушнір",
+                "patronymic": "Богданівна",
+                "sex": "FEMALE",
+                "type": "Student"
+              },
+              "students": [
+                {
+                  "studentId": "S229",
+                  "firstName": "Тимур",
+                  "lastName": "Гордієнко",
+                  "patronymic": "Михайлович",
+                  "sex": "MALE"
+                },
+                {
+                  "studentId": "S230",
+                  "firstName": "Світлана",
+                  "lastName": "Соколова",
+                  "patronymic": "Володимирівна",
+                  "sex": "FEMALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
